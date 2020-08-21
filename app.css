@@ -1,4 +1,12 @@
 #titleDisplay {
-    background-image: "imgs/butterfly.png";
+    color: #f5f5f5
+}
+
+body {
+    background-color: #323133;
+    background: url("imgs/butterfly2.png");
+    background-repeat: no-repeat;
     background-position: center;
+    background-position-y: 20%;
+    height: 100%;
 }
